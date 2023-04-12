@@ -1,4 +1,4 @@
-#loop
+#while loop
 i=5 #intialization
 
 while i>=1: #condition
