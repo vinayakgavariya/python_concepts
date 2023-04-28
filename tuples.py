@@ -1,0 +1,20 @@
+#TUPLES
+
+#TUPLE IS IMMUATABLE YOU CAN'T CHANGE VALUES
+#IF WE HAVE LIST AND WE DON'T WANT TO CHANGE VALUES IN LIST THEN WE USE TUPLE
+
+tup =(1,2,3,4)
+print(tup)
+print(tup[1])
+
+# tup[1]=33 #WILL GIVE ERROR as tuple is mutable
+
+
+#SET- COLLECTION OF OBJECTS
+
+#SET DOESN'T TRACK WHICH VALUE ENTERED FIRST
+#SET INCLUDES CONCEPT OF HASH AND IT INCREASES SPEED AND NOT SEQUENCE
+set = {22,25,14,5}
+
+print(set)  #will give random values
+print(set(2)) #we can't call values using index in set
