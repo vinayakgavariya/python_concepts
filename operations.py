@@ -29,3 +29,6 @@ h='string'
 print(h)
 
 #we can also define our own functions
+
+#uniary operator 
+#logical operators -  and true if both condition true
