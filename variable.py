@@ -11,6 +11,7 @@ print(a[:5])
 print(len(a))
 
 # some interesting stuff
+
 a= 10
 b=a # (both a and b have same address)
 id(a)
