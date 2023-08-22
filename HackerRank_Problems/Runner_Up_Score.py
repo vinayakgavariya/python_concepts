@@ -27,4 +27,7 @@ print (sorted(list(set(arr)))[-2])
 #today i learnt
 
 #if the list will already sorted then it will return none
+#how to print a list using loop
+#hackerrank follows standard input output format
+
 
