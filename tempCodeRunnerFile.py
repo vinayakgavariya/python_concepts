@@ -1,4 +1,2 @@
-l=[]
-for a in range(1,101):
-    l.append (a)
-print (a)
+str1= "His name is John. John is an honest man"
+print(str1.title())
