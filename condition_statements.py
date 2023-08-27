@@ -1,5 +1,5 @@
 #if is a block in python it is called suite
-#we have to follow indentation in python
+#we have to follow indentation in python.
 
 x=12
 r= x%2
