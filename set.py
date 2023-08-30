@@ -37,3 +37,6 @@ set2 ={"c", "e"}
 
 del set2
 print(set2)
+
+set3={"a", "b"}
+print(set3)
