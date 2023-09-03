@@ -18,5 +18,5 @@ if __name__ == '__main__':
     # today i learnt 
 
     # .2f is used for rounding of number to 2 decimal points
-    # how to sum elements in list
+    # how to sum elements in list.
     
