@@ -4,6 +4,7 @@ for fruit in fruits:
     print(modified_fruit)
 
 # upper,banna,upper
+
 # better understanding of for loop before understanding comprehension
 # for var1 in (list):
 #     for var2 in (list):

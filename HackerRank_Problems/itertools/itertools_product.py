@@ -7,4 +7,4 @@ B= list(map(int, input().split()))
 result= (product(A,B))
 
 for item in result:
-    print(item, end=' ')
+    print(item, end=' ')    # this will give output separated by space in same line
